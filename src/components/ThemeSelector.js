@@ -4,7 +4,7 @@ import modeIcon from '../assets/mode-icon.svg'
 // styles
 import './ThemeSelector.css'
 
-const themeColors = ['red', 'green', 'blue']
+const themeColors = ['#ed5b42', '#f4aa85', '#c3dae0']
 
 export default function ThemeSelector() {
 
